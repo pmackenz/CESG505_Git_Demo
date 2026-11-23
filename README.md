@@ -1,2 +1,10 @@
 # CESG505_Git_Demo
-Introducing students to git
+Introducing my students to github
+
+talking about:
+* cloning
+* forking
+* add
+* commit
+* push
+* pull
